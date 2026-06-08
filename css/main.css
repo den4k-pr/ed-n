@@ -1650,7 +1650,6 @@ margin: auto;
 /* Зона показу 2.5 слайдів */
 .css-swiper-wrapper-v18x {
     width: 100%;
-    padding: 0 36px; 
     box-sizing: border-box;
 }
 
@@ -2482,9 +2481,6 @@ margin: auto;
     padding: 6.818vw 0;
   }
 
-  .css-swiper-wrapper-v18x {
-    padding: 0 8.182vw;
-  }
 
   .conveyor-slider-section-v18x .swiper-wrapper .swiper-slide.css-slide-v18x {
     width: 30.455vw;
