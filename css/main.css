@@ -1576,7 +1576,6 @@ margin: auto;
 /* Контейнер для Swiper з відступами для ідеального центрування */
 .rss-swiper-wrapper-v17x {
     width: 100%;
-    padding: 0 30px;
     box-sizing: border-box;
 }
 
@@ -2456,9 +2455,6 @@ margin: auto;
     margin: 0 0 6.818vw 0;
   }
 
-  .rss-swiper-wrapper-v17x {
-    padding: 0 6.818vw;
-  }
 
   .rss-slide-img-v17x {
     border-radius: 2.727vw;
