@@ -669,7 +669,6 @@ margin: auto;
 }
 
 .price-left-v11x {
-    font-family: 'Antonio', sans-serif;
     font-weight: 700;
     font-size: 32px;
     text-align: center;
@@ -698,7 +697,6 @@ margin: auto;
 }
 
 .price-right-v11x {
-    font-family: 'Antonio', sans-serif;
     font-weight: 700;
     font-size: 32px;
     text-align: center;
@@ -859,7 +857,7 @@ margin: auto;
 
 /* Інлайн корекції для перевикористаних класів */
 .custom-timer-text-v11x {
-    font-weight: 700; 
+    font-weight: 600; 
     font-size: 13px; 
     color: #fff; 
     line-height: 140%;
